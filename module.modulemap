@@ -1,5 +1,0 @@
-module CSDLImage [system] {
-  header "CSDLImage.h"
-  link "SDL2_image"
-  export *
-}
